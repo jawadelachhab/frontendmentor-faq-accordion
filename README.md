@@ -3,7 +3,7 @@
 A responsive, accessible FAQ accordion built following the Frontend Mentor challenge.
 
 ## Live Demo
-[View Live Site](https://your-project-url.com)
+[View Live Site](https://jawadelachhab.github.io/frontendmentor-faq-accordion/)
 
 ## Preview
 
